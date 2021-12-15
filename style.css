@@ -1,0 +1,12 @@
+canvas
+{
+    border: 10px solid orange;
+}
+.person
+{
+background-color: hotpink;
+color: white;
+border-radius: 10px;
+width: 30%;
+height: 20px;
+}
